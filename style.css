@@ -1,0 +1,64 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/46/b7/d5/46b7d56445a1675781ba4bd97fd62a35.jpg");
+    background-size: cover;
+    background-color: #f17808;
+  }
+  img{
+    width: 30%;
+    margin: auto;
+    display: block;
+  }
+  h1{
+    margin: 20px auto;
+    padding: 5px auto;
+    display: block;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    border: 0 solid rgba(18, 148, 127, 0.4);
+    background-color: rgba(18, 148, 127, 0.4);
+    max-width: 650px;
+    border-radius: 50px;
+  }
+  form{
+    border: 0 solid #82C4C3;
+    border-radius: 10px;
+    background-color: rgba(241, 120, 8, 0.4);
+    margin: 30px auto;
+    display: block;
+    line-height: 2;
+    overflow: auto;
+    padding: 20px;
+    max-width: 700px;
+    text-align: center;
+  }
+ label{
+   font-family: 'Baloo Chettan 2', cursive;
+   font-size: 20px;
+   font-weight: 5px;
+   color: white;
+ }
+ button{
+   background-color: rgba(18, 148, 127, 0.4);
+   font-family: 'Baloo Chettan 2', cursive;
+   font-size: 15px;
+   color: white;
+   padding: 10px;
+   border-radius: 50px;
+  transition: all 300ms ease-in-out;
+ }
+ button:hover{
+   background-color: rgba(231, 20, 20, 0.4);
+   cursor: pointer;
+ }
+ .cheesy span{
+   font-family: 'Baloo Chettan 2', cursive;
+   font-size: 20px;
+   color: white;
+ }
+ .toppings span{
+   font-family: 'Baloo Chettan 2', cursive;
+   font-size: 20px;
+   color: white;
+ }
